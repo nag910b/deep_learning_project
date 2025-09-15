@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnn-classifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/nag910b/deep_learning_project
+Author: nag910b
+Author-email: sainag910@gmail.com
+Project-URL: Bug Tracker, https://github.com/nag910b/deep_learning_project/issues
+Description-Content-Type: text/markdown
+
+# deep_learning_project
