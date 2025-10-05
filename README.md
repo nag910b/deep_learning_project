@@ -1,4 +1,4 @@
-# deep_learning_project
+
 # Kidney Tumor Classification using Deep Learning
 
 A production-ready deep learning application that classifies kidney CT scan images as either normal or containing tumors using transfer learning with VGG16 architecture.
